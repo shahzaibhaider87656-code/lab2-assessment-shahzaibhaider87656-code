@@ -31,7 +31,7 @@ Formula:
     Celsius = (Fahrenheit - 32) * 5 / 9
 */
 float fahrenheitToCelsius(float fahrenheit) {
-    float cecius = (Fahrenhite - 32 ) * 5/9;
+    float cecius = (fahrenhite - 32) * 5/9;
     
     return celsius;
 
